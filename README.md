@@ -1,6 +1,6 @@
 # nlw-experts
 
-##Tecnologias utilizadas no projeto
+## Tecnologias utilizadas no projeto
 
 - HTML
 - CSS
